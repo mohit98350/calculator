@@ -23,16 +23,16 @@ body {
 .right {
   cursor: pointer;
   font-size: 2rem;
-  border: 1px solid black;
+  border: 1px solid blue;
   outline: none;
-  background-color: blue;
+  background-color: light-blue;
 }
 .left {
   cursor: pointer;
   font-size: 2rem;
-  border: 1px solid black;
+  border: 1px solid blue;
   outline: none;
-  background-color: green;
+  background-color: pink;
 }
 
 .calculator-grid > button:hover {
